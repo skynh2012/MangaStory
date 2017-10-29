@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Manga</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- menu -->
+    <string name="home">Home</string>
+    <string name="all_book">All Books</string>
+    <string name="category">Categories</string>
+    <string name="histories">Histories</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="feedback">Feedback</string>
+    <string name="more_apps">More apps</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Feedback-->
+    <string name="input_your_name">Tên bạn (*)</string>
+    <string name="input_your_email">Email (*)</string>
+    <string name="subject">Subject</string>
+    <string name="input_subject">Tiêu đề (*)</string>
+    <string name="content">Content</string>
+    <string name="input_your_feedback">Nhập vào ý kiến của bạn (*)</string>
+    <string name="send_feedback">Gửi phản hồi</string>
+    <string name="message_name_empty">Vui lòng nhập tên của bạn.</string>
+    <string name="message_email_empty">Vui lòng nhập email của bạn</string>
+    <string name="message_email_wrong_format">Your mail is not correct format. Try again please!</string>
+    <string name="message_subject_empty">Vui lòng nhập tiêu đề.</string>
+    <string name="message_content_empty">Please input your feedback.</string>
+    <string name="message_send_feedback_successfully">Thank you! We received your feedback. We will check and reply you soon.</string>
+    <string name="message_error_send_feedback">Having problem when sending your feedback. Try again please!</string>
+    <string name="message_error_load">Error load data !</string>
+    <string name="message_comment_empty">Comment empty</string>
+    <string name="message_search_empty">Key search empty</string>
+
+    <!-- action menu-->
+    <string name="clear_history">Clear history</string>
+    <string name="list_or_grid">List or grid</string>
+    <string name="action_search">Search</string>
+    <string name="full_screen">Full screen</string>
+
+    <!-- for tab of home screen-->
+    <string-array name="tabs">
+        <item>New Book</item>
+        <item>Top Book</item>
+        <item>Popular</item>
+    </string-array>
+
+    <string name="lbl_publisher">Publisher:</string>
+
+    <!-- fragment home -->
+    <string name="lastest">Lastest</string>
+    <string name="most_viewed">Most viewed</string>
+</resources>

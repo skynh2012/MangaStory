@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textColorPrimary">#454545</color>
+    <color name="textColorSecondary">#919191</color>
+    <color name="lightColorPrimary">#FFCDD2</color>
+    <!-- base color -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#f8e71c</color>
+    <color name="yellowDark">#f5a623</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="purple">#9C27B0</color>
+    <color name="teal">#009688</color>
+    <color name="brown">#795548</color>
+    <color name="light_grey">#f6f6f6</color>
+    <color name="dividerColor">#B6B6B6</color>
+
+    <!-- social -->
+    <color name="facebook">#48649f</color>
+    <color name="google">#de3b45</color>
+    <color name="facebook_pressed">#FF577ECF</color>
+    <color name="google_pressed">#FFF4404B</color>
+
+    <!-- Tabs colors -->
+    <color name="bg_transparent">#88000000</color>
+    <color name="bg_border_shadow">#030303</color>
+    <color name="select_indicator">#ffffff</color>
+    <color name="unselected_tab_text">#e7e7e7</color>
+
+    <!-- splash screen -->
+    <color name="black_transparent">#80000000</color>
+
+    <!-- about us -->
+    <color name="grey_hard">#454545</color>
+    <color name="grey_light">#ededed</color>
+    <color name="grey_bold">#919191</color>
+</resources>
